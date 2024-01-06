@@ -6,5 +6,8 @@ scikit-learn
 catboost
 xgboost
 Flask
-
+firebase-admin
+nltk
+scikit-learn
+flask-cors
 #-e .
